@@ -25,5 +25,8 @@
 
 -anywhere in your controller or model add:
 
-````  $this->load->model('tool/telegram');//inits telegram model`
-  $this->model_tool_telegram->sendMessageByName('bot_name_from_admin_panel',$text);//sends a message to your channel ````
+````  
+  $this->load->model('tool/telegram');//inits telegram model
+
+  $this->model_tool_telegram->sendMessageByName('bot_name_from_admin_panel',$text);//sends a message to your channel 
+````
