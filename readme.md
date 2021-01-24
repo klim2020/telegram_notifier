@@ -14,7 +14,7 @@
 ![img1](https://image.prntscr.com/image/0VU1klGhSdacgS5-T_xIMg.png)
 
 
--send a message in  your group with your bot so the bot can 'see' your message
+-send a message to your group so the bot can 'see' your message
 
 ![img2](https://image.prntscr.com/image/4poPwqL4T4C2jUNH9tg7FA.png)
 
