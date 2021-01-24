@@ -1,3 +1,6 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=KDM95GGFW2DSS&source=url)
+
+
 # Opencart bot module for  telegram chat notifications opencart 2.0.x - 2.2.x
 
 ## How to use 
@@ -30,3 +33,4 @@
 
   $this->model_tool_telegram->sendMessageByName('bot_name_from_admin_panel',$text);//sends a message to your channel 
 ````
+
