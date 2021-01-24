@@ -9,7 +9,7 @@
 
 -go to ([Botfather](https://telegram.me//botfather "@botfather") and register a bot)
 
--in Telegram create a bot and add your bot to your group 
+-Create a group and add your bot to your group 
 
 ![img1](https://image.prntscr.com/image/0VU1klGhSdacgS5-T_xIMg.png)
 
