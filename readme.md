@@ -15,7 +15,7 @@
 
 ![img2](https://image.prntscr.com/image/4poPwqL4T4C2jUNH9tg7FA.png)
 
--check getUpdates(using this guide) method to see your chat id
+-check getUpdates([GUIDE](https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id)) method to see your chat id
 
 ![img3](https://image.prntscr.com/image/LW3E_G9iRUiJvbhqkWOWVQ.png)
 
@@ -25,5 +25,5 @@
 
 -anywhere in your controller or model add:
 
-`   $this->load->model('tool/telegram');//inits telegram model`
-`   $this->model_tool_telegram->sendMessageByName('bot_name_from_admin_panel',$text);//sends a message to your channel`
+````  $this->load->model('tool/telegram');//inits telegram model`
+  $this->model_tool_telegram->sendMessageByName('bot_name_from_admin_panel',$text);//sends a message to your channel ````
